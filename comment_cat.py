@@ -1,4 +1,5 @@
 from urllib.parse import urlparse, parse_qs
+from config import youtube_api_key
 def commenter(url):
     def extract_video_id(youtube_url):
         # Parse the URL
@@ -25,7 +26,7 @@ def commenter(url):
     import googleapiclient.discovery
 
     # Set your API key here
-    api_key = 'AIzaSyCAWqqd43cGIsFQbXUNYd3cSowwB4gIwF4'
+    api_key = youtube_api_key
 
     # Create a YouTube Data API client
     youtube = googleapiclient.discovery.build('youtube', 'v3', developerKey=api_key)
