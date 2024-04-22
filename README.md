@@ -8,12 +8,16 @@ Welcome to SummaView, the innovative YouTube extension designed to enhance your 
 - **Quick Video Summaries & Smart Timestamps:** No more lengthy video searches. Get to the heart of the video content quickly.
 - **Detailed Transcripts:** For easy follow-along and quote searches.
 - **Effortless Navigation:** With intelligent timestamps, navigate through the video content with ease.
+- **Comment Sentiment Analysis:** Audience can have a look at the overall sentiment of the comment section under a video.
 
 ### 🎥 For Creators:
 - **Audience Sentiment Analysis:** Understand audience sentiment through deep comment analysis.
 - **Trending Topics & Keywords:** Extract trending topics and keywords from comments for content enhancement.
 - **Personalized Content:** Gain insights for personalizing content and engaging audience interactions.
-
+#### Preview-1
+![](/assets/images/1.jpeg)
+#### Preview-2
+![](/assets/images/3.jpeg)
 ## Built With
 
 - **Python:** The backbone of our extension, enabling sophisticated backend logic and analysis.
